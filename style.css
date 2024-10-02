@@ -1,0 +1,24 @@
+/*for all header 1s*/
+h1 {
+    text-align: center;
+}
+
+/*for all paragraphs*/
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+/*just for tag with id main*/
+#main {
+    color: green;
+    background-color: beige;
+    width: 500px;
+}
+
+/*for class = "A"*/
+.A {
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(142, 238, 148);
+}
